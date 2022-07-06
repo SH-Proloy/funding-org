@@ -3,14 +3,38 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
+section {
+    flex
+}
+
+
+
+
 .intro-description {
     text-align: center;
-    background-image: url(images/donation0.jpg);
+    background-image: url(images/donation6.jpg);
+    height: 500px;
+    background-size: cover;
     background-repeat: no-repeat;
-
+    color: white;
+    padding-top: 25%;
+    margin: 5px;
 
 }
 
+.intro-description text {}
+
 h1 {
     font-size: 50px;
+    font: weight 600px;
+}
+
+a {
+    background-color: tomato;
+    background-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    padding: auto;
+
 }
