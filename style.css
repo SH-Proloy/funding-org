@@ -1,0 +1,16 @@
+body {
+    font-family: 'Amaranth', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.intro-description {
+    text-align: center;
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+
+
+}
+
+h1 {
+    font-size: 50px;
+}
